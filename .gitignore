@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+*.idb
+jpeg.pdb
+png.pdb
+zlib.pdb
+EnvMapTool.pdb
+projects/vs2010/.vs/
+projects/vs2010/obj/
